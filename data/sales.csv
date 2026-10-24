@@ -1,0 +1,253 @@
+Date,Product,Category,Quantity,Sales,Profit
+2026-01-08,Office Chair,Furniture,1.0,6889,1654.0
+2026-01-11,Desk Lamp,Furniture,4.0,6089,1761.0
+2026-01-11,Mouse,Accessories,10.0,6005,1956.0
+2026-01-14,Notebook Pack,Stationery,4.0,986,498.0
+2026-01-15,Keyboard,Accessories,1.0,1206,318.0
+2026-01-17,Office Chair,Furniture,1.0,6996,1752.0
+2026-01-17,Mouse,Accessories,3.0,1728,526.0
+2026-01-17,Keyboard,Accessories,2.0,2238,616.0
+2026-01-18,Study Desk,Furniture,2.0,22217,4287.0
+2026-01-19,Bookshelf,Furniture,2.0,9093,2067.0
+2026-01-21,Notebook Pack,Stationery,2.0,481,222.0
+2026-01-23,Notebook Pack,Stationery,3.0,777,366.0
+2026-01-26,Desk Lamp,Furniture,,6071,2003.0
+2026-01-26,Laptop,Electronics,3.0,140480,24943.0
+2026-01-28,Laptop,Electronics,2.0,100461,17840.0
+2026-01-28,Pen Set,Stationery,1.0,184,104.0
+2026-01-31,Office Chair,Furniture,1.0,6752,1633.0
+2026-02-02,Notebook Pack,Stationery,1.0,247,110.0
+2026-02-02,Mouse,Accessories,1.0,570,197.0
+2026-02-05,USB Drive,Accessories,4.0,1720,617.0
+2026-02-05,Keyboard,Accessories,5.0,5651,1649.0
+2026-02-05,Headphones,Accessories,1.0,2546,744.0
+2026-02-06,Desk Lamp,Furniture,2.0,2777,890.0
+2026-02-06,Laptop,Electronics,3.0,136325,23727.0
+2026-02-07,USB Drive,Accessories,1.0,447,182.0
+2026-02-07,Monitor,Electronics,2.0,27325,5349.0
+2026-02-07,Study Desk,Furniture,2.0,22724,5113.0
+2026-02-08,Headphones,Accessories,2.0,5227,1492.0
+2026-02-10,Office Chair,Furniture,2.0,15366,3978.0
+2026-02-10,Keyboard,Accessories,4.0,4944,1335.0
+2026-02-11,Bookshelf,Furniture,4.0,17477,3651.0
+2026-02-11,Pen Set,Stationery,1.0,167,73.0
+2026-02-11,Monitor,Electronics,1.0,12912,2522.0
+2026-02-12,Laptop,Electronics,2.0,92035,18195.0
+2026-02-14,Mouse,Accessories,1.0,581,
+2026-02-16,Study Desk,Furniture,2.0,21918,4962.0
+2026-02-17,Laptop,Electronics,2.0,102440,17686.0
+2026-02-17,Office Chair,Furniture,1.0,7697,1701.0
+2026-02-19,Headphones,Accessories,4.0,9970,2820.0
+2026-02-20,Laptop,Electronics,1.0,50462,11003.0
+2026-02-20,Bookshelf,Furniture,1.0,5039,1331.0
+2026-02-20,Desk Lamp,Furniture,5.0,6984,1914.0
+2026-02-20,Office Chair,Furniture,3.0,22328,6317.0
+2026-02-21,Pen Set,Stationery,1.0,181,101.0
+2026-02-22,Desk Lamp,Furniture,2.0,3101,815.0
+2026-02-22,USB Drive,Accessories,1.0,412,182.0
+2026-02-22,Study Desk,Furniture,4.0,43389,9458.0
+2026-02-24,Laptop,Electronics,3.0,139924,30538.0
+2026-02-26,Laptop,Electronics,1.0,46200,9740.0
+2026-02-27,Pen Set,Stationery,1.0,169,77.0
+2026-02-28,Desk Lamp,Furniture,3.0,4161,1178.0
+2026-02-28,Study Desk,Furniture,3.0,31684,6080.0
+2026-02-28,USB Drive,Accessories,3.0,1331,581.0
+2026-03-01,Bookshelf,Furniture,1.0,4735,1053.0
+2026-03-03,Notebook Pack,Stationery,3.0,739,287.0
+2026-03-07,Headphones,Accessories,2.0,5210,1406.0
+2026-03-07,Bookshelf,Furniture,1.0,4799,1110.0
+2026-03-08,USB Drive,Accessories,2.0,845,362.0
+2026-03-11,Bookshelf,Furniture,1.0,4587,1249.0
+2026-03-12,Monitor,Electronics,1.0,13404,2642.0
+2026-03-14,Keyboard,Accessories,1.0,1110,293.0
+2026-03-16,Bookshelf,Furniture,1.0,4984,1199.0
+2026-03-18,Desk Lamp,Furniture,2.0,3076,946.0
+2026-03-19,Office Chair,Furniture,2.0,13583,3398.0
+2026-03-20,Monitor,Electronics,2.0,28210,6223.0
+2026-03-24,USB Drive,Accessories,2.0,915,369.0
+2026-03-25,Mouse,Accessories,8.0,4904,1913.0
+2026-03-28,Study Desk,Furniture,2.0,20736,4786.0
+2026-03-31,Desk Lamp,Furniture,2.0,2835,863.0
+2026-03-31,Laptop,Electronics,2.0,99773,22445.0
+2026-03-31,Headphones,Accessories,1.0,2577,801.0
+2026-03-31,Keyboard,Accessories,1.0,1236,308.0
+2026-04-02,Laptop,Electronics,3.0,142474,32178.0
+2026-04-02,Keyboard,Accessories,2.0,2514,606.0
+2026-04-02,USB Drive,Accessories,1.0,453,161.0
+2026-04-09,USB Drive,Accessories,3.0,1224,450.0
+2026-04-09,Headphones,Accessories,1.0,2432,779.0
+2026-04-11,Desk Lamp,Furniture,1.0,1366,430.0
+2026-04-12,Pen Set,Stationery,1.0,177,92.0
+2026-04-12,Keyboard,Accessories,10.0,12336,3046.0
+2026-04-13,Desk Lamp,Furniture,3.0,4319,1362.0
+2026-04-16,Laptop,Electronics,3.0,143763,31080.0
+2026-04-16,Notebook Pack,Stationery,1.0,254,104.0
+2026-04-19,Study Desk,Furniture,1.0,10326,2122.0
+2026-04-23,Bookshelf,Furniture,2.0,9854,2561.0
+2026-04-23,USB Drive,Accessories,10.0,4143,1654.0
+2026-04-24,USB Drive,Accessories,2.0,896,355.0
+2026-04-25,USB Drive,Accessories,2.0,915,383.0
+2026-04-26,Keyboard,Accessories,3.0,3320,803.0
+2026-04-26,Notebook Pack,Stationery,3.0,718,363.0
+2026-04-27,Keyboard,Accessories,1.0,1199,325.0
+2026-04-27,Keyboard,Accessories,3.0,3474,856.0
+2026-04-28,Keyboard,Accessories,2.0,2287,667.0
+2026-04-30,Pen Set,Stationery,4.0,733,380.0
+2026-04-30,Monitor,Electronics,2.0,27802,6930.0
+2026-04-30,Mouse,Accessories,1.0,553,217.0
+2026-05-02,Monitor,Electronics,1.0,13620,2739.0
+2026-05-02,USB Drive,Accessories,2.0,812,302.0
+2026-05-03,Keyboard,Accessories,1.0,1238,393.0
+2026-05-03,Pen Set,Stationery,3.0,511,218.0
+2026-05-03,Mouse,Accessories,2.0,1122,425.0
+2026-05-05,Study Desk,Furniture,3.0,33697,6725.0
+2026-05-05,Pen Set,Stationery,1.0,183,101.0
+2026-05-05,Office Chair,Furniture,1.0,7404,1836.0
+2026-05-06,Headphones,Accessories,2.0,4924,1607.0
+2026-05-07,Laptop,Electronics,1.0,45153,8089.0
+2026-05-08,Monitor,Electronics,1.0,13726,2694.0
+2026-05-08,Pen Set,Stationery,1.0,183,81.0
+2026-05-08,Monitor,Electronics,1.0,14205,3225.0
+2026-05-09,Notebook Pack,Stationery,2.0,504,238.0
+2026-05-12,Desk Lamp,Furniture,3.0,4163,1289.0
+2026-05-14,Laptop,Electronics,1.0,46587,8833.0
+2026-05-15,Bookshelf,Furniture,3.0,13885,3416.0
+2026-05-15,Desk Lamp,Furniture,8.0,12172,3660.0
+2026-05-15,Desk Lamp,Furniture,2.0,3070,1043.0
+2026-05-16,Notebook Pack,Stationery,3.0,757,344.0
+2026-05-16,Mouse,Accessories,1.0,600,197.0
+2026-05-16,Headphones,Accessories,1.0,2290,698.0
+2026-05-16,Pen Set,Stationery,2.0,338,190.0
+2026-05-17,Bookshelf,Furniture,3.0,13571,3060.0
+2026-05-19,Pen Set,Stationery,2.0,374,202.0
+2026-05-20,Office Chair,Furniture,2.0,14611,3193.0
+2026-05-22,Notebook Pack,Stationery,2.0,489,200.0
+2026-05-22,Laptop,Electronics,4.0,184341,32776.0
+2026-05-23,Headphones,Accessories,2.0,5156,1350.0
+2026-05-23,Office Chair,Furniture,3.0,23058,5336.0
+2026-05-25,Keyboard,Accessories,2.0,2418,617.0
+2026-05-25,Bookshelf,Furniture,8.0,39356,8868.0
+2026-05-27,Study Desk,Furniture,1.0,11480,2901.0
+2026-05-27,Desk Lamp,Furniture,1.0,1426,478.0
+2026-05-28,Mouse,Accessories,3.0,1810,625.0
+2026-05-28,Desk Lamp,Furniture,1.0,1455,411.0
+2026-06-02,Monitor,Electronics,3.0,40998,8205.0
+2026-06-03,Notebook Pack,Stationery,2.0,482,201.0
+2026-06-04,Bookshelf,Furniture,2.0,10062,2526.0
+2026-06-04,Desk Lamp,Furniture,2.0,2753,713.0
+2026-06-05,Laptop,Electronics,1.0,48224,9876.0
+2026-06-05,Laptop,Electronics,10.0,458709,84443.0
+2026-06-08,Bookshelf,Furniture,2.0,9110,2316.0
+2026-06-09,Notebook Pack,Stationery,1.0,247,102.0
+2026-06-10,USB Drive,Accessories,2.0,827,371.0
+2026-06-10,Monitor,Electronics,1.0,13997,2963.0
+2026-06-11,Notebook Pack,Stationery,1.0,244,122.0
+2026-06-11,Bookshelf,Furniture,5.0,22335,5708.0
+2026-06-11,Mouse,Accessories,1.0,588,222.0
+2026-06-12,Bookshelf,Furniture,5.0,24809,6155.0
+2026-06-12,Laptop,Electronics,3.0,150868,32992.0
+2026-06-14,Pen Set,Stationery,2.0,348,159.0
+2026-06-15,Laptop,Electronics,2.0,91678,17582.0
+2026-06-16,Laptop,Electronics,3.0,141601,27257.0
+2026-06-17,Keyboard,Accessories,3.0,3335,831.0
+2026-06-19,Laptop,Electronics,1.0,46785,9831.0
+2026-06-19,Notebook Pack,Stationery,4.0,1031,456.0
+2026-06-21,Notebook Pack,Stationery,1.0,261,108.0
+2026-06-23,Monitor,Electronics,1.0,13763,3108.0
+2026-06-24,Study Desk,Furniture,1.0,9985,2487.0
+2026-06-26,Bookshelf,Furniture,1.0,4857,1107.0
+2026-06-29,USB Drive,Accessories,1.0,464,189.0
+2026-06-30,Laptop,Electronics,1.0,47925,10711.0
+2026-07-03,Laptop,Electronics,1.0,46871,8257.0
+2026-07-03,Office Chair,Furniture,2.0,15734,3692.0
+2026-07-03,Pen Set,Stationery,1.0,169,96.0
+2026-07-05,Mouse,Accessories,1.0,602,214.0
+2026-07-06,Study Desk,Furniture,1.0,10486,2425.0
+2026-07-07,Bookshelf,Furniture,2.0,9955,2626.0
+2026-07-10,Monitor,Electronics,3.0,41305,9323.0
+2026-07-14,Notebook Pack,Stationery,1.0,244,104.0
+2026-07-14,Bookshelf,Furniture,5.0,23856,6391.0
+2026-07-16,Desk Lamp,Furniture,2.0,2810,882.0
+2026-07-22,Pen Set,Stationery,1.0,177,93.0
+2026-07-23,Office Chair,Furniture,5.0,34866,8957.0
+2026-07-23,Desk Lamp,Furniture,2.0,3083,1023.0
+2026-07-23,Pen Set,Stationery,5.0,919,441.0
+2026-07-26,Mouse,Accessories,1.0,620,200.0
+2026-07-27,USB Drive,Accessories,3.0,1385,624.0
+2026-07-28,Bookshelf,Furniture,8.0,38877,10522.0
+2026-07-28,Mouse,Accessories,2.0,1216,450.0
+2026-07-29,Laptop,Electronics,2.0,98907,18543.0
+2026-07-29,USB Drive,Accessories,1.0,450,199.0
+2026-07-30,USB Drive,Accessories,2.0,849,385.0
+2026-07-31,Study Desk,Furniture,1.0,10755,2453.0
+2026-07-31,Mouse,Accessories,1.0,581,198.0
+2026-08-01,Keyboard,Accessories,3.0,3769,974.0
+2026-08-04,Laptop,Electronics,3.0,137375,31273.0
+2026-08-04,Headphones,Accessories,2.0,5059,1507.0
+2026-08-05,Headphones,Accessories,1.0,2308,787.0
+2026-08-05,Bookshelf,Furniture,5.0,24944,6445.0
+2026-08-05,Pen Set,Stationery,4.0,726,414.0
+2026-08-07,Bookshelf,Furniture,2.0,8801,2394.0
+2026-08-07,Office Chair,Furniture,2.0,14603,4099.0
+2026-08-08,Bookshelf,Furniture,2.0,8739,2190.0
+2026-08-08,Keyboard,Accessories,1.0,1192,345.0
+2026-08-09,Monitor,Electronics,1.0,13463,3285.0
+2026-08-09,Headphones,Accessories,1.0,2366,795.0
+2026-08-10,Laptop,Electronics,3.0,148584,25490.0
+2026-08-11,Keyboard,Accessories,1.0,1081,323.0
+2026-08-11,Notebook Pack,Stationery,1.0,254,112.0
+2026-08-12,Desk Lamp,Furniture,1.0,1558,473.0
+2026-08-12,Study Desk,Furniture,3.0,32633,6797.0
+2026-08-12,Headphones,Accessories,2.0,4869,1282.0
+2026-08-13,USB Drive,Accessories,4.0,1742,644.0
+2026-08-13,Keyboard,Accessories,4.0,4669,1123.0
+2026-08-15,Study Desk,Furniture,3.0,30708,6856.0
+2026-08-18,Mouse,Accessories,2.0,1226,366.0
+2026-08-21,Desk Lamp,Furniture,1.0,1407,374.0
+2026-08-21,Keyboard,Accessories,2.0,2315,705.0
+2026-08-22,Monitor,Electronics,1.0,13576,3015.0
+2026-08-22,Bookshelf,Furniture,1.0,4424,1180.0
+2026-08-23,Pen Set,Stationery,1.0,166,89.0
+2026-08-23,Keyboard,Accessories,2.0,2171,699.0
+2026-08-24,Pen Set,Stationery,3.0,521,279.0
+2026-08-24,Keyboard,Accessories,1.0,1082,331.0
+2026-08-25,Headphones,Accessories,1.0,2621,819.0
+2026-08-28,Monitor,Electronics,5.0,64478,16170.0
+2026-08-29,Laptop,Electronics,1.0,51124,10103.0
+2026-08-29,Monitor,Electronics,1.0,13733,3474.0
+2026-08-31,Headphones,Accessories,2.0,4923,1352.0
+2026-08-31,Headphones,Accessories,1.0,2562,675.0
+2026-09-01,Headphones,Accessories,2.0,5064,1674.0
+2026-09-04,Keyboard,Accessories,5.0,5666,1763.0
+2026-09-04,Pen Set,Stationery,1.0,165,91.0
+2026-09-06,Monitor,Electronics,3.0,43961,9766.0
+2026-09-07,Bookshelf,Furniture,1.0,4534,1241.0
+2026-09-07,Mouse,Accessories,1.0,579,174.0
+2026-09-08,Notebook Pack,Stationery,4.0,967,433.0
+2026-09-09,Pen Set,Stationery,1.0,162,76.0
+2026-09-12,Mouse,Accessories,4.0,2212,765.0
+2026-09-15,Study Desk,Furniture,4.0,43105,8222.0
+2026-09-16,Desk Lamp,Furniture,1.0,1554,459.0
+2026-09-20,USB Drive,Accessories,2.0,871,319.0
+2026-09-21,Office Chair,Furniture,3.0,20254,5625.0
+2026-09-23,Desk Lamp,Furniture,2.0,2951,996.0
+2026-09-24,Keyboard,Accessories,2.0,2246,618.0
+2026-10-01,Notebook Pack,Stationery,1.0,240,110.0
+2026-10-02,Pen Set,Stationery,3.0,548,261.0
+2026-10-02,Office Chair,Furniture,1.0,6781,1887.0
+2026-10-03,Office Chair,Furniture,3.0,22093,5694.0
+2026-10-04,Mouse,Accessories,1.0,624,223.0
+2026-10-04,Desk Lamp,Furniture,1.0,1517,408.0
+2026-10-05,Notebook Pack,Stationery,1.0,237,92.0
+2026-10-05,Study Desk,Furniture,1.0,10013,2290.0
+2026-10-07,Keyboard,Accessories,1.0,1160,310.0
+2026-10-08,Notebook Pack,Stationery,3.0,718,333.0
+2026-10-10,USB Drive,Accessories,3.0,1291,583.0
+2026-10-10,Monitor,Electronics,3.0,39155,8489.0
+2026-10-11,Keyboard,Accessories,4.0,4328,1292.0
+2026-10-11,Laptop,Electronics,1.0,49975,11311.0
+2026-10-13,Bookshelf,Furniture,1.0,4989,1316.0
+2026-10-15,Laptop,Electronics,1.0,49874,10109.0
+2026-10-15,Bookshelf,Furniture,1.0,4408,1011.0
+2026-01-17,Office Chair,Furniture,1.0,6996,1752.0
+2026-02-05,Keyboard,Accessories,5.0,5651,1649.0

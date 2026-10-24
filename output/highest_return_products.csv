@@ -1,0 +1,16 @@
+product_id,product_name,category,sub_category,gross_sales,net_sales,refunds,units_sold,total_orders,returns,avg_price,return_rate_pct,sales_loss_pct
+PROD-111,Floral Print Summer Maxi Dress,Clothing,Women's Apparel,560120.0,326370.0,233750.0,280,179,80,2200.0,44.69,41.73
+PROD-113,Running Performance Sneakers,Clothing,Footwear,696320.0,403200.0,293120.0,241,169,72,3200.0,42.6,42.1
+PROD-114,Classic Leather Oxford Shoes,Clothing,Footwear,935560.0,583870.0,351690.0,273,184,73,3800.0,39.67,37.59
+PROD-109,Slim Fit Oxford Formal Shirt,Clothing,Men's Apparel,285110.0,166810.0,118300.0,224,151,59,1400.0,39.07,41.49
+PROD-110,Stretch Denim Slim Jeans,Clothing,Men's Apparel,360270.0,208260.0,152010.0,223,153,59,1800.0,38.56,42.19
+PROD-112,Casual Knit Cotton Cardigan,Clothing,Women's Apparel,362720.0,222240.0,140480.0,249,163,56,1600.0,34.36,38.73
+PROD-120,Convertible Fabric Futon Sofa,Home & Furniture,Living Room,3977600.0,2970400.0,1007200.0,277,189,53,16000.0,28.04,25.32
+PROD-130,Waterproof Trekking Backpack 45L,Sports & Fitness,Outdoor & Sports,557310.0,413530.0,143780.0,241,162,43,2600.0,26.54,25.8
+PROD-116,Polarized Aviator Sunglasses,Clothing,Accessories,254062.5,195625.0,58437.5,226,170,41,1250.0,24.12,23.0
+PROD-118,Solid Wood Study Desk with Drawers,Home & Furniture,Office Furniture,2592675.0,2028600.0,564075.0,246,163,39,11500.0,23.93,21.76
+PROD-104,True Wireless Bass Earbuds,Electronics,Audio & Headphones,415530.0,312120.0,103410.0,256,162,38,1800.0,23.46,24.89
+PROD-101,"Pro Ultra Gaming Laptop 15.6""",Electronics,Laptops & Computers,15278250.0,11781250.0,3497000.0,260,172,40,65000.0,23.26,22.89
+PROD-128,Adjustable Dumbbell Pair 20kg,Sports & Fitness,Fitness Gear,1066320.0,831600.0,234720.0,243,165,37,4800.0,22.42,22.01
+PROD-119,Minimalist 4-Tier Bookshelf,Home & Furniture,Living Room,1039500.0,851130.0,188370.0,271,180,37,4200.0,20.56,18.12
+PROD-108,Smart Fitness Watch GPS,Electronics,Smart Wearables,723625.0,602525.0,121100.0,232,157,30,3500.0,19.11,16.74

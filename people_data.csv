@@ -1,0 +1,203 @@
+Person_ID,Name,Age,Gender,City,Occupation,Monthly_Income_INR,Marital_Status
+P-1001,Tanvi Patel,37.0,Male,New Delhi,Data Analyst,88511.0,Single
+P-1002,Suresh Das,38.0,Male,Bengaluru,Accountant,89722.0,Married
+P-1003,Sanjay Patel,30.0,Female,Bengaluru,Doctor,138805.0,Single
+P-1004,Dev Nair,47.0,Male,Chennai,Marketing Manager,145583.0,Married
+P-1005,Varun Nair,28.0,Male,Ahmedabad,Data Analyst,86141.0,Married
+P-1006,Vikram Gupta,28.0,Male,Chandigarh,Marketing Manager,81403.0,Divorced
+P-1007,Sameer Verma,35.0,Male,Chandigarh,Software Engineer,66917.0,Married
+P-1008,Sameer Kumar,21.0,Female,Pune,Architect,63754.0,Single
+P-1009,Sanjay Gupta,23.0,Male,Chennai,Doctor,136998.0,Single
+P-1010,Kiran Bose,24.0,Female,Hyderabad,Civil Engineer,39753.0,Single
+P-1011,Gaurav Joshi,46.0,Male,New Delhi,Graphic Designer,70415.0,Married
+P-1012,Deepak Chopra,33.0,Female,Chandigarh,Graphic Designer,41403.0,Married
+P-1013,Varun Reddy,28.0,Male,New Delhi,Accountant,57952.0,Single
+P-1014,Sonu kuamr,22.0,Male,Mumbai,Teacher,47558.0,Single
+P-1015,Vikram Bose,27.0,Female,Chennai,Architect,80416.0,Single
+P-1016,Shreya Iyer,,Male,Bengaluru,Data Analyst,108091.0,Single
+P-1017,Meera Gupta,32.0,Female,Hyderabad,Accountant,46392.0,Married
+P-1018,Manish Iyer,40.0,Male,Pune,Teacher,47299.0,Married
+P-1019,Manish Patel,34.0,Male,Kolkata,Marketing Manager,60237.0,Divorced
+P-1020,Yash Chopra,21.0,Female,Jaipur,Doctor,126890.0,Single
+P-1021,Yash Patel,39.0,Male,Pune,Architect,112177.0,Married
+P-1022,Sneha Kulkarni,31.0,Male,Kolkata,Marketing Manager,90875.0,Married
+P-1023,Sunil Reddy,21.0,Male,Mumbai,Product Manager,88404.0,Single
+P-1024,Meera Bose,28.0,Male,Ahmedabad,Software Engineer,126303.0,Married
+P-1025,Pooja Chopra,36.0,Female,Ahmedabad,Doctor,103293.0,Married
+P-1026,Isha Chopra,35.0,Other,Mumbai,Civil Engineer,72138.0,Married
+P-1027,Ananya Iyer,26.0,Female,Kolkata,Civil Engineer,75036.0,Single
+P-1028,Swati Singh,42.0,Male,Pune,Graphic Designer,79800.0,Married
+P-1029,Shreya Verma,25.0,Female,Jaipur,Data Analyst,65934.0,Single
+P-1030,Shreya Gupta,35.0,Female,Chennai,Architect,120760.0,Married
+P-1031,Manish Chopra,28.0,Male,Bengaluru,Accountant,53800.0,Married
+P-1032,Tanvi Mehta,23.0,Female,Mumbai,Architect,54825.0,Single
+P-1033,Gaurav Bose,40.0,Female,Jaipur,Doctor,224468.0,Married
+P-1034,Swati Patel,32.0,Female,Chennai,Civil Engineer,90006.0,Married
+P-1035,Sunil Reddy,36.0,Male,Hyderabad,Accountant,56968.0,Married
+P-1036,Pooja Iyer,36.0,Other,Bengaluru,Data Analyst,117059.0,Married
+P-1037,Isha Kulkarni,32.0,Female,Ahmedabad,Software Engineer,147491.0,Married
+P-1038,Kiran Bose,21.0,Male,Bengaluru,Product Manager,134657.0,Single
+P-1039,Neha Rao,33.0,Male,Jaipur,Teacher,51011.0,Divorced
+P-1040,Rohit Rao,33.0,Male,Hyderabad,Architect,57748.0,Married
+P-1041,Pooja Joshi,31.0,Female,Chandigarh,Marketing Manager,105356.0,Married
+P-1042,Rohit Bose,46.0,Female,Chennai,Doctor,176860.0,Divorced
+P-1043,Kiran Nair,25.0,Male,Kolkata,,45775.0,Single
+P-1044,Gaurav Gupta,41.0,Female,Ahmedabad,Data Analyst,103417.0,Married
+P-1045,Neha Nair,28.0,Male,Ahmedabad,Doctor,158964.0,Married
+P-1046,Dev Iyer,33.0,Female,Jaipur,Software Engineer,134716.0,Married
+P-1047,Tanvi Kulkarni,26.0,Male,Chennai,Data Analyst,67227.0,Single
+P-1048,Sunil Iyer,29.0,Male,Mumbai,Accountant,37110.0,Single
+P-1049,Kiran Verma,35.0,Male,Kolkata,Doctor,171136.0,Married
+P-1050,Yash Sharma,33.0,Female,New Delhi,Architect,92808.0,Married
+P-1051,Manish Deshmukh,21.0,Female,Chandigarh,Civil Engineer,51269.0,Single
+P-1052,Vikram Gupta,29.0,Female,Hyderabad,Architect,73954.0,Single
+P-1053,Arjun Iyer,31.0,Male,Chandigarh,Marketing Manager,106389.0,Married
+P-1054,Kunal Deshmukh,49.0,Male,Ahmedabad,Product Manager,192237.0,Married
+P-1055,Manish Reddy,35.0,Male,Chandigarh,Accountant,63757.0,Married
+P-1056,Varun Singh,21.0,Female,Mumbai,Civil Engineer,57575.0,Single
+P-1057,Sunil Patel,33.0,Female,Ahmedabad,Civil Engineer,114811.0,Divorced
+P-1058,Gaurav Sharma,31.0,Male,Kolkata,Software Engineer,113788.0,Married
+P-1059,Sunil Nair,32.0,Female,Jaipur,Data Analyst,61838.0,Married
+P-1060,Isha Chopra,43.0,Male,Jaipur,Civil Engineer,101930.0,Married
+P-1061,Nikhil Rao,40.0,Other,Kolkata,Doctor,145171.0,Single
+P-1062,Zoya Verma,45.0,Male,New Delhi,Teacher,50377.0,Married
+P-1063,Sameer Kulkarni,38.0,Male,Ahmedabad,Marketing Manager,159340.0,Married
+P-1064,Pooja Reddy,24.0,Male,New Delhi,Accountant,43671.0,Single
+P-1065,Rohan Gupta,33.0,Female,Chennai,Graphic Designer,52458.0,Married
+P-1066,Shreya Singh,21.0,Female,Kolkata,Accountant,48959.0,Single
+P-1067,Swati Nair,23.0,Female,Chennai,Data Analyst,76774.0,Single
+P-1068,Vikram Singh,24.0,Female,Jaipur,Data Analyst,97773.0,Single
+P-1069,Dev Chopra,25.0,Female,Pune,Marketing Manager,78714.0,Single
+P-1070,Vikram Singh,40.0,Female,Jaipur,Marketing Manager,87970.0,Married
+P-1071,Sneha Das,35.0,Male,New Delhi,Data Analyst,111278.0,Married
+P-1072,Tanvi Joshi,21.0,Female,Bengaluru,Software Engineer,89615.0,Single
+P-1073,Manish Rao,35.0,Male,Mumbai,Teacher,66081.0,Married
+P-1074,Sunil Bose,21.0,Female,New Delhi,Product Manager,70386.0,Single
+P-1075,Manish Rao,37.0,Female,Jaipur,Marketing Manager,115733.0,Divorced
+P-1076,Kiran Kulkarni,35.0,Male,Jaipur,Architect,108178.0,Married
+P-1077,Kavita Sharma,26.0,Female,Kolkata,Civil Engineer,68966.0,Single
+P-1078,Suresh Deshmukh,35.0,Male,Pune,Marketing Manager,89584.0,Married
+P-1079,Rohit Mishra,49.0,Male,Bengaluru,Data Analyst,119028.0,Married
+P-1080,Yash Patel,22.0,Female,Jaipur,Accountant,58391.0,Single
+P-1081,Deepak Deshmukh,24.0,Female,Pune,Doctor,156547.0,Single
+P-1082,Nikhil Joshi,43.0,Female,Mumbai,Teacher,55251.0,Single
+P-1083,Kunal Sharma,41.0,Male,Chandigarh,Accountant,77778.0,Married
+P-1084,Gaurav Mehta,40.0,Female,Mumbai,Data Analyst,130017.0,Married
+P-1085,Amit Kulkarni,30.0,Male,Chennai,Product Manager,112137.0,Married
+P-1086,Sanjay Patel,24.0,Male,Ahmedabad,Accountant,40178.0,Single
+P-1087,Kiran Deshmukh,32.0,Female,Bengaluru,Doctor,164940.0,Married
+P-1088,Arjun Gupta,35.0,Female,Pune,Doctor,190951.0,Married
+P-1089,Rahul Joshi,33.0,Female,Ahmedabad,Architect,,Married
+P-1090,Pooja Deshmukh,30.0,Male,Pune,Product Manager,216355.0,Married
+P-1091,Meera Singh,38.0,Female,Chandigarh,Doctor,140999.0,Married
+P-1092,Shreya Verma,23.0,Female,New Delhi,Data Analyst,76934.0,Single
+P-1093,Ananya Nair,30.0,Female,Chandigarh,Graphic Designer,63693.0,Married
+P-1094,Aditi Mishra,37.0,Female,Ahmedabad,Architect,103543.0,Married
+P-1095,Sameer Mishra,25.0,Male,Chennai,Architect,52203.0,Single
+P-1096,Zoya Patel,28.0,Female,Bengaluru,Marketing Manager,110490.0,Married
+P-1097,Amit Rao,34.0,Male,Chandigarh,Doctor,115399.0,Married
+P-1098,Sanjay Joshi,34.0,Female,Bengaluru,Accountant,68994.0,Married
+P-1099,Isha Chopra,25.0,Male,Mumbai,Architect,85574.0,Single
+P-1100,Yash Iyer,33.0,Male,New Delhi,Architect,74640.0,Divorced
+P-1101,Varun Iyer,36.0,Female,Bengaluru,Accountant,73850.0,Divorced
+P-1102,Sanjay Kumar,42.0,Female,Kolkata,Civil Engineer,105310.0,Married
+P-1103,Sameer Mishra,21.0,Male,Chennai,Civil Engineer,42994.0,Single
+P-1104,Zoya Iyer,37.0,Male,Jaipur,Software Engineer,131844.0,Married
+P-1105,Kunal Mishra,37.0,Male,New Delhi,Data Analyst,160349.0,Married
+P-1106,Riya Joshi,38.0,Female,Jaipur,Software Engineer,149514.0,Married
+P-1107,Gaurav Kumar,41.0,Male,Pune,Data Analyst,109225.0,Married
+P-1108,Yash Deshmukh,30.0,Male,Chandigarh,Product Manager,157519.0,Married
+P-1109,Isha Bose,26.0,Male,Jaipur,Civil Engineer,61460.0,Single
+P-1110,Sunil Mehta,28.0,Male,Ahmedabad,Graphic Designer,53857.0,Divorced
+P-1111,Ananya Verma,53.0,Male,Jaipur,Marketing Manager,99320.0,Married
+P-1112,Manish Kulkarni,39.0,Male,Chandigarh,Accountant,47021.0,Married
+P-1113,Sameer Chopra,28.0,Female,Ahmedabad,Civil Engineer,85573.0,Married
+P-1114,Sameer Mishra,33.0,Female,Jaipur,Accountant,47311.0,Married
+P-1115,Varun Reddy,26.0,Female,New Delhi,Product Manager,144137.0,Single
+P-1116,Amit Nair,26.0,Female,Chandigarh,Product Manager,130243.0,Single
+P-1117,Rahul Verma,33.0,Female,Bengaluru,Civil Engineer,64974.0,Married
+P-1118,Suresh Mehta,52.0,Female,Hyderabad,Software Engineer,166722.0,Married
+P-1119,Kavita Kumar,21.0,Male,Jaipur,Graphic Designer,47237.0,Single
+P-1120,Manish Das,27.0,Female,Chennai,Civil Engineer,80338.0,Single
+P-1121,Amit Verma,25.0,Female,Ahmedabad,Teacher,44823.0,Single
+P-1122,Gaurav Chopra,37.0,Other,Kolkata,Civil Engineer,95052.0,Married
+P-1123,Nikhil Rao,22.0,Female,Jaipur,Civil Engineer,54097.0,Single
+P-1124,Sneha Nair,28.0,Female,Hyderabad,Teacher,41510.0,Married
+P-1125,Gaurav Reddy,48.0,Male,Pune,Architect,133724.0,Married
+P-1126,Kunal Chopra,21.0,Male,Ahmedabad,Architect,93357.0,Single
+P-1127,Rohit Gupta,52.0,Female,Ahmedabad,Graphic Designer,92264.0,Married
+P-1128,Sneha Mehta,21.0,Male,Pune,Data Analyst,56283.0,Single
+P-1129,Sneha Rao,44.0,Female,Kolkata,Teacher,57657.0,Married
+P-1130,Divya Nair,36.0,Female,Pune,Doctor,192112.0,Married
+P-1131,Rakesh Iyer,24.0,Male,Ahmedabad,Teacher,44435.0,Single
+P-1132,Rahul Verma,21.0,Male,Jaipur,Marketing Manager,55463.0,Single
+P-1133,Isha Mehta,30.0,Male,Ahmedabad,Doctor,103327.0,Married
+P-1134,Amit Mishra,47.0,Female,Pune,Accountant,59178.0,Married
+P-1135,Arjun Patel,29.0,Female,Hyderabad,Civil Engineer,71691.0,Divorced
+P-1136,Ananya Singh,45.0,Male,Bengaluru,Software Engineer,100103.0,Married
+P-1137,Kunal Singh,43.0,Female,Pune,Software Engineer,132005.0,Married
+P-1138,Isha Chopra,24.0,Male,Ahmedabad,Civil Engineer,69743.0,Single
+P-1139,Kunal Mehta,34.0,Female,Kolkata,Architect,87370.0,Married
+P-1140,Kavita Chopra,33.0,Male,Kolkata,Architect,89793.0,Married
+P-1141,Aarav Chopra,34.0,Female,Chandigarh,Teacher,63595.0,Married
+P-1142,Tanvi Das,47.0,Female,Mumbai,Graphic Designer,59396.0,Married
+P-1143,Nikhil Mehta,52.0,Male,Hyderabad,Software Engineer,102072.0,Married
+P-1144,Rakesh Rao,31.0,Female,Jaipur,Architect,105516.0,Married
+P-1145,Aarav Nair,35.0,Female,Hyderabad,Software Engineer,99182.0,Married
+P-1146,Zoya Reddy,31.0,Male,Ahmedabad,Architect,83889.0,Married
+P-1147,Rohit Joshi,27.0,Female,Hyderabad,Doctor,167736.0,Single
+P-1148,Amit Mehta,36.0,Male,Chandigarh,Accountant,56299.0,Married
+P-1149,Gaurav Mishra,41.0,Female,Hyderabad,Teacher,66687.0,Married
+P-1150,Dev Kulkarni,40.0,Male,Jaipur,Data Analyst,107208.0,Single
+P-1151,Arjun Deshmukh,25.0,Female,Hyderabad,Product Manager,104194.0,Single
+P-1152,Divya Mehta,39.0,Male,Ahmedabad,Marketing Manager,126528.0,Married
+P-1153,Priya Mishra,32.0,Male,Ahmedabad,Marketing Manager,102031.0,Married
+P-1154,Kiran Kulkarni,44.0,Male,Chandigarh,Software Engineer,119085.0,Married
+P-1155,Sameer Sharma,37.0,Male,New Delhi,Teacher,56373.0,Married
+P-1156,Ananya Das,31.0,Male,Mumbai,Civil Engineer,90080.0,Single
+P-1157,Amit Verma,40.0,Male,Bengaluru,Doctor,205472.0,Divorced
+P-1158,Varun Joshi,44.0,Other,Chennai,Marketing Manager,123312.0,Married
+P-1159,Suresh Patel,39.0,Female,Ahmedabad,Doctor,163140.0,Married
+P-1160,Sneha Gupta,35.0,Male,Ahmedabad,Graphic Designer,59188.0,Married
+P-1161,Rahul Sharma,33.0,Female,Pune,Marketing Manager,114493.0,Married
+P-1162,Divya Das,25.0,Female,Hyderabad,Teacher,71308.0,Single
+P-1163,Zoya Joshi,23.0,Male,Hyderabad,Data Analyst,46394.0,Single
+P-1164,Ananya Das,43.0,Female,New Delhi,Teacher,74599.0,Married
+P-1165,Isha Verma,38.0,Male,New Delhi,Teacher,67390.0,Married
+P-1166,Yash Iyer,32.0,Female,New Delhi,Doctor,121596.0,Married
+P-1167,Rohit Iyer,33.0,Female,Chandigarh,Accountant,52919.0,Married
+P-1168,Sanjay Iyer,41.0,Male,Bengaluru,Civil Engineer,84647.0,Married
+P-1169,Sameer Nair,25.0,Male,Chandigarh,Doctor,120751.0,Single
+P-1170,Vikram Deshmukh,36.0,Female,Jaipur,Graphic Designer,55110.0,Married
+P-1171,Varun Das,25.0,Male,Chennai,Doctor,140529.0,Single
+P-1172,Divya Mishra,35.0,Male,Hyderabad,Architect,91111.0,Single
+P-1173,Zoya Verma,28.0,Female,Chennai,Civil Engineer,71862.0,Divorced
+P-1174,Kiran Bose,21.0,Male,Hyderabad,Accountant,28295.0,Single
+P-1175,Dev Rao,26.0,Female,Mumbai,Civil Engineer,61834.0,Single
+P-1176,Pooja Verma,35.0,Male,Chandigarh,Product Manager,192760.0,Married
+P-1177,Deepak Kumar,40.0,Female,Chandigarh,Civil Engineer,82990.0,Married
+P-1178,Priya Chopra,32.0,Male,New Delhi,Teacher,41519.0,Divorced
+P-1179,Kavita Mishra,32.0,Female,Chandigarh,Teacher,50086.0,Married
+P-1180,Rakesh Deshmukh,35.0,Male,Pune,Graphic Designer,50823.0,Married
+P-1181,Sneha Reddy,37.0,Male,Ahmedabad,Marketing Manager,142920.0,Married
+P-1182,Amit Chopra,32.0,Female,Jaipur,Accountant,66823.0,Married
+P-1183,Rahul Mehta,39.0,Male,Ahmedabad,Product Manager,147463.0,Married
+P-1184,Varun Reddy,35.0,Male,Jaipur,Teacher,56851.0,Married
+P-1185,Rakesh Mishra,33.0,Female,Jaipur,Architect,82039.0,Married
+P-1186,Kunal Rao,33.0,Male,Jaipur,Doctor,173429.0,Married
+P-1187,Divya Mishra,46.0,Male,Ahmedabad,Software Engineer,162106.0,Married
+P-1188,Deepak Verma,52.0,Female,Chennai,Doctor,186142.0,Single
+P-1189,Deepak Mehta,40.0,Male,Ahmedabad,Marketing Manager,119083.0,Married
+P-1190,Amit Mishra,52.0,Male,Ahmedabad,Civil Engineer,90017.0,Married
+P-1191,Aditi Kulkarni,25.0,Female,Ahmedabad,Architect,70512.0,Single
+P-1192,Aditi Kulkarni,21.0,Female,Chennai,Doctor,101598.0,Single
+P-1193,Isha Gupta,26.0,Female,Hyderabad,Teacher,49054.0,Single
+P-1194,Swati Nair,36.0,Female,Pune,Graphic Designer,84389.0,Married
+P-1195,Tanvi Rao,41.0,Female,Hyderabad,Architect,100961.0,Married
+P-1196,Dev Verma,24.0,Male,Chennai,Graphic Designer,54278.0,Single
+P-1197,Gaurav Mishra,21.0,Male,New Delhi,Doctor,184101.0,Single
+P-1198,Dev Mishra,43.0,Female,Jaipur,Product Manager,156424.0,Single
+P-1199,Swati Verma,21.0,Male,Chandigarh,Marketing Manager,107785.0,Single
+P-1200,Rohan Verma,31.0,Female,Pune,Civil Engineer,92305.0,Married
+P-1011,Gaurav Joshi,46.0,Male,New Delhi,Graphic Designer,70415.0,Married
+P-1031,Manish Chopra,28.0,Male,Bengaluru,Accountant,53800.0,Married

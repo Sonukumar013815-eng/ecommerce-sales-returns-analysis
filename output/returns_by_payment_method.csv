@@ -1,0 +1,6 @@
+payment_method,total_orders,returned_orders,gross_sales,refund_amount,return_rate_pct
+Cash on Delivery,689,219,7668041.5,1825629.5,31.79
+Credit Card,1422,317,12947787.5,2778661.0,22.29
+UPI,2018,426,20049914.5,4360378.5,21.11
+Net Banking,264,54,2733439.5,865715.5,20.45
+Debit Card,607,119,6244089.5,1285260.0,19.6

@@ -1,0 +1,32 @@
+[
+  {
+    "type": "High Overall Returns",
+    "level": "Warning",
+    "finding": "Overall order return rate is 22.7%, resulting in Rs. 11,115,644 of refunded revenue (22.4% of gross sales).",
+    "recommendation": "Review post-order confirmation and fit/quality guidance to reduce return velocity."
+  },
+  {
+    "type": "Highest Return Category",
+    "level": "Alert",
+    "finding": "'Clothing' exhibits the highest return rate at 34.5% (Refund loss: Rs. 1,375,875).",
+    "recommendation": "Target this category with enhanced visual sizing charts, customer reviews, or pre-shipping inspection."
+  },
+  {
+    "type": "Cash on Delivery Return Spike",
+    "level": "Critical",
+    "finding": "COD orders experience a 31.8% return/refusal rate compared to 20.9% for prepaid methods (+10.9% gap).",
+    "recommendation": "Incentivize digital prepayment (UPI/Cards) via 2-5% instant cashback or require OTP verification on COD dispatches."
+  },
+  {
+    "type": "Serial Returners Impact",
+    "level": "Notice",
+    "finding": "53 customers were identified as serial returners (>=3 orders and >=50% return rate), generating Rs. 1,740,846 in return refunds.",
+    "recommendation": "Implement targeted return fees or require manual review on high-frequency return profiles."
+  },
+  {
+    "type": "Dominant Return Driver",
+    "level": "Info",
+    "finding": "The top stated return reason is 'Size / Fit Issue', accounting for 28.3% of all returns (321 orders).",
+    "recommendation": "Audit product listing descriptions, dimensional accuracy, and QA checks for this failure mode."
+  }
+]

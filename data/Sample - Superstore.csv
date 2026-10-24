@@ -1,0 +1,31 @@
+Order_ID,Date,City,Product,Category,Quantity,Unit_Price,Discount,Payment_Method,Customer_Type,Total_Before_Discount,Revenue
+1001,2026-01-03,Jaipur,Laptop,Electronics,1,45000,2000,UPI,New,45000,43000
+1002,2026-01-04,Jodhpur,Headphones,Electronics,2,1500,100,Card,Returning,3000,2900
+1003,2026-01-05,Udaipur,Notebook,Stationery,5,80,0,Cash,New,400,400
+1004,2026-01-06,Jaipur,Office Chair,Furniture,1,6500,500,Card,Returning,6500,6000
+1005,2026-01-07,Ajmer,Mouse,Electronics,3,700,50,UPI,New,2100,2050
+1006,2026-01-08,Jodhpur,Water Bottle,Accessories,4,350,0,Cash,Returning,1400,1400
+1007,2026-01-09,Kota,Monitor,Electronics,1,12000,1000,Card,New,12000,11000
+1008,2026-01-10,Jaipur,Pen Set,Stationery,10,120,20,UPI,Returning,1200,1180
+1009,2026-01-11,Udaipur,Desk,Furniture,1,9000,750,Card,New,9000,8250
+1010,2026-01-12,Ajmer,Keyboard,Electronics,2,2200,200,UPI,Returning,4400,4200
+1011,2026-01-13,Kota,Backpack,Accessories,2,1800,150,Cash,New,3600,3450
+1012,2026-01-14,Jodhpur,Tablet,Electronics,1,18000,1000,Card,Returning,18000,17000
+1013,2026-01-15,Jaipur,Marker Pack,Stationery,4,250,50,UPI,New,1000,950
+1014,2026-01-16,Udaipur,Study Table,Furniture,1,7000,400,Cash,Returning,7000,6600
+1015,2026-01-17,Ajmer,USB Drive,Electronics,5,600,100,UPI,New,3000,2900
+1016,2026-01-18,Kota,Headphones,Electronics,1,1500,0,Card,Returning,1500,1500
+1017,2026-01-19,Jodhpur,Notebook,Stationery,8,80,40,Cash,New,640,600
+1018,2026-01-20,Jaipur,Mouse,Electronics,2,700,0,UPI,Returning,1400,1400
+1019,2026-01-21,Udaipur,Water Bottle,Accessories,3,350,25,Cash,New,1050,1025
+1020,2026-01-22,Ajmer,Office Chair,Furniture,2,6500,800,Card,Returning,13000,12200
+1021,2026-01-23,Kota,Pen Set,Stationery,6,120,0,UPI,New,720,720
+1022,2026-01-24,Jodhpur,Monitor,Electronics,1,12000,500,Card,Returning,12000,11500
+1023,2026-01-25,Jaipur,Backpack,Accessories,1,1800,100,Cash,New,1800,1700
+1024,2026-01-26,Udaipur,Keyboard,Electronics,1,2200,100,UPI,Returning,2200,2100
+1025,2026-01-27,Ajmer,Study Table,Furniture,1,7000,300,Card,New,7000,6700
+1026,2026-01-28,Kota,USB Drive,Electronics,3,600,0,UPI,Returning,1800,1800
+1027,2026-01-29,Jodhpur,Laptop,Electronics,1,45000,2500,Card,New,45000,42500
+1028,2026-01-30,Jaipur,Water Bottle,Accessories,5,350,50,Cash,Returning,1750,1700
+1029,2026-01-31,Udaipur,Notebook,Stationery,12,80,30,UPI,New,960,930
+1030,2026-02-01,Ajmer,Tablet,Electronics,2,18000,1500,Card,Returning,36000,34500
